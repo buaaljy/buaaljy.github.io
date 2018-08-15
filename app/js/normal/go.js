@@ -60,7 +60,7 @@ function go () {
     .type('0', '<span class="blank">')
     .type("'buaaljy'", '<span class="green">')
     .wait(15)
-    .del(6)
+    .del(9)
     .type("'刘x营'", '<span class="green">')
     .type(',', '<span class="gray">')
     .type('0', '<br>')
